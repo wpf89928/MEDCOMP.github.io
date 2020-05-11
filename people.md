@@ -21,6 +21,11 @@
 
 ## Students 
 
+- Abhinit Kumar Ambastha
+  - Ph.D. Candidate, 2014
+  - Domain Adaptation, Deep Learning, Adversarial Learning
+  - https://www.comp.nus.edu.sg/~abhinit/
+
 - [Name]
 - [Position, Year]
 - [Research Interest]
