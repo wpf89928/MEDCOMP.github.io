@@ -27,3 +27,6 @@ Singapore 117417
 
 #### Map
 [School of Computing, NUS](https://www.google.com/maps/place/School+of+Computing/@1.2940812,103.7722599,17z/data=!3m1!4b1!4m5!3m4!1s0x31da1af8c1ea1917:0xe4eaa27565152bcf!8m2!3d1.2940812!4d103.7744486)
+
+
+© 2020 Medical Computing Lab
