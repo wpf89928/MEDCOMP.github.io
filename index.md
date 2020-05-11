@@ -1,7 +1,7 @@
 - [People](people.md)
 - [Vision](vision.md)
 - Projects
-- Reseasy
+  - Reseasy
 - Publications
   - Conference Publications
   - Journal Articles
