@@ -1,5 +1,5 @@
 - [People](people.md)
-- Vision
+- [Vision](vision.md)
 - Projects
 - Reseasy
 - Publications
