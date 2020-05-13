@@ -3,9 +3,8 @@
 - [2005 to 2001](#2005-to-2001)
 - [Prior to 2000](#prior-to-2000)
 
-##2010 to 2006
-
-###2010
+## 2010 to 2006
+### 2010
 1. Lin, L., L. S. Wong, T. Y. Leong and P. S. Lai (2010). Efficient mining of haplotype patterns for linkage equilibrium mapping. Journal of Bioinformatics and Computational Biology 8(Suppl. 1): 127–146
 
 ### 2007
@@ -14,8 +13,7 @@
 ### 2006
 1. S.S. Xu, K.L. Poh and E.J. Horvitz. Value of information analysis in decision models using undirected graphs. International Journal of Information Technology and Decision Making.
 
-##2005 to 2001
-
+## 2005 to 2001
 ### 2005
 1. K.L. Poh, K.W. Choo and C.G. Wong. A heuristic approach to the multi-period multi-commodity transportation problem, Journal of the Operational Research Society, 56(6):708-718, 2005.
 2. P.K. Pek and K.L. Poh. Making Decisions in an Intelligent Tutoring System, International Journal of Information Technology and Decision Making, 4(2):207-233, June 2005.
