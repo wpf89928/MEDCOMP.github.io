@@ -26,6 +26,11 @@
   - Domain Adaptation, Deep Learning, Adversarial Learning
   - https://www.comp.nus.edu.sg/~abhinit/
 
+- Akshay Narayan
+  - Ph.D. Candidate
+  - Reinforcement Learning, Transfer Learning, Sequential Decision Making
+  - https://www.comp.nus.edu.sg/~anarayan/
+  
 - [Name]
 - [Position, Year]
 - [Research Interest]
