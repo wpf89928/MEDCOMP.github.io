@@ -1,13 +1,13 @@
 - [People](people.md)
 - [Vision](vision.md)
-- Projects
-  - Reseasy
-- Publications
-  - Conference Publications
-  - Journal Articles
-- Research
-  - From Genes to Humans
-  - Reasoning with Change
+- [Projects](projects.md)
+  - [Reseasy](reeasy.md)
+- [Publications](publications.md)
+  - [Conference Publications](conference.md)
+  - [Journal Articles](journal.md)
+- [Research](research.md)
+  - [From Genes to Humans](gene_to_human.md)
+  - [Reasoning with Change](reasoning_with_change.md)
   
 ## Welcome!
 At Medical Computing Lab we build on our past and on-going work in dynamic decision making in complex and uncertain domains with limited resources. Together with our research collaborators, we are working on a family of representation, reasoning, and learning techniques and frameworks that can effectively reflect and better manage the incomplete and changing nature of real-world problems.
