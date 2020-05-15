@@ -14,6 +14,11 @@
 - [Link to Personal page]
 
 ## Research staff
+- Wei Pengfei
+  - Research Fellow
+  - Domain Adaptation, Transfer Learning, Reinforcement Learning
+  - https://sites.google.com/site/weipengfeishomepage/
+
 - [Name]
 - [Position, Year]
 - [Research Interest]
