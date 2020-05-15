@@ -19,10 +19,10 @@
 - [Research Interest]
 - [Link to Personal page]
 
--Huang Tiancheng
-  -Research Assistant, 2019
-  -Game Artificial Intelligence, Algorithmic Game Theory, Reinforcement Learning, Information Theory
-  -https://www.linkedin.com/in/tiancheng-huang-a63152184/
+- Huang Tiancheng
+  - Research Assistant, 2019
+  - Game Artificial Intelligence, Algorithmic Game Theory, Reinforcement Learning, Information Theory
+  - https://www.linkedin.com/in/tiancheng-huang-a63152184/
 
 ## Students 
 
