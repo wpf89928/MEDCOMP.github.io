@@ -19,6 +19,11 @@
 - [Research Interest]
 - [Link to Personal page]
 
+-Huang Tiancheng
+  -Research Assistant, 2019
+  -Game Artificial Intelligence, Algorithmic Game Theory, Reinforcement Learning, Information Theory
+  -https://www.linkedin.com/in/tiancheng-huang-a63152184/
+
 ## Students 
 
 - Abhinit Kumar Ambastha
@@ -37,12 +42,6 @@
 - [Link to Personal page]
 
 ## Interns
-- Huang Tiancheng
-  - Research Assistant, 2019
-  - Game Artificial Intelligence, Algorithmic Game Theory, Reinforcement Learning, Information Theory
-  - https://www.linkedin.com/in/tiancheng-huang-a63152184/
-
-
 - [Name]
 - [Position, Year]
 - [Research Interest]
