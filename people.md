@@ -14,15 +14,15 @@
 - [Link to Personal page]
 
 ## Research staff
+- Wei Pengfei
+  - Research Fellow
+  - Domain Adaptation, Transfer Learning, Deep Learning, Reinforcement Learning
+  - https://sites.google.com/site/weipengfeishomepage/
+
 - [Name]
 - [Position, Year]
 - [Research Interest]
 - [Link to Personal page]
-
-- Huang Tiancheng
-  - Research Assistant, 2019
-  - Game Artificial Intelligence, Algorithmic Game Theory, Reinforcement Learning, Information Theory
-  - https://www.linkedin.com/in/tiancheng-huang-a63152184/
 
 ## Students 
 
@@ -42,6 +42,12 @@
 - [Link to Personal page]
 
 ## Interns
+- Huang Tiancheng
+  - Research Assistant, 2019
+  - Game Artificial Intelligence, Algorithmic Game Theory, Reinforcement Learning, Information Theory
+  - https://www.linkedin.com/in/tiancheng-huang-a63152184/
+
+
 - [Name]
 - [Position, Year]
 - [Research Interest]
